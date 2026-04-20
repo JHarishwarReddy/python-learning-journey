@@ -1,0 +1,4 @@
+Hello! with statement
+Python is awesome
+I am going to get a job with visa
+Day 4 file handling complete

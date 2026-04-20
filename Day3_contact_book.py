@@ -21,7 +21,7 @@ def search_contact(name):
             print(f"  Phone: {contact['phone']}")
             print(f"  Email: {contact["email"]}")
             return True
-    print("Contact Not Found")
+    print("Contact Not Found!")
     return False
 def delete_contact(name):
     for contact in contacts:
@@ -29,7 +29,7 @@ def delete_contact(name):
             contacts.remove(contact)
             print(f"Contact {name} Deleted")
             return True
-    print(f"{name} Not Found1")
+    print(f"{name} Not Found!")
     return False
 def show_menu():
     print("\n--- CONTACT BOOK ---")
@@ -61,7 +61,7 @@ while True:
         name = input("Enter name to Delete: ")
         delete_contact(name)
     elif choice == "5":
-        print(f"\n You added {session_adds} contacts in this secession")
+        print(f"\n You added {session_adds} contacts in this session")
         print("Good bye")
         break
     else:
