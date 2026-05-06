@@ -9,6 +9,7 @@ at an AI company by September 2026.e
 - Day 1 ✅ - Variables, f-strings, if/elif/else, while loops, nested loops
 - Day 2 ✅ - Lists, dictionaries, for loops, enumerate, contact book app
 - Day 3 ✅ - Functions, parameters, return values, scope
+- Day 4 ✅ - File handling, JSON, error handling, permanent storage
 
 ## Projects
 - Calculator - basic calculator with all operations
