@@ -10,6 +10,7 @@ at an AI company by September 2026.e
 - Day 2 ✅ - Lists, dictionaries, for loops, enumerate, contact book app
 - Day 3 ✅ - Functions, parameters, return values, scope
 - Day 4 ✅ - File handling, JSON, error handling, permanent storage
+- Day 5 ✅ - OOP, classes, inheritance, super(), Contact + ContactBook classes
 
 ## Projects
 - Calculator - basic calculator with all operations
@@ -17,7 +18,7 @@ at an AI company by September 2026.e
 - Contact Book - add, view, search and delete contacts
 
 ## Goals
-- Learn Python fundamentals (March - April 2026) 🔄
-- Learn Data & ML basics (April - May 2026)
-- Learn AI/LLM skills (May - June 2026)
-- Land a job with visa sponsorship (September 2026)
+- Learn Python fundamentals
+- Learn Data & ML basics 
+- Learn AI/LLM skills
+- Land a job with visa sponsorship
